@@ -1,5 +1,5 @@
 # JSS
-Js commonJS modules compiler written on golang
+CommonJS and AMD modules compiler written in Golang. 
 
 ## How To Install   
 ```bash
