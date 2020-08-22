@@ -5,7 +5,7 @@ github.com/alexflint/go-scalar v1.0.0/go.mod h1:GpHzbCOZXEKMEcygYQ5n/aa4Aq84zbxj
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/dchest/jsmin v0.0.0-20160823214000-faeced883947 h1:Fm10/KNuoAyBm2P5P5H91Xy21hGcZnBdjR+cMdytv1M=
 github.com/dchest/jsmin v0.0.0-20160823214000-faeced883947/go.mod h1:Dv9D0NUlAsaQcGQZa5kc5mqR9ua72SmA8VXi4cd+cBw=
-github.com/night-codes/alliance v1.0.2 h1:5389uF+AXof02/XG7ujZB3OJ9lAh7UjGkEAZdleUjEY=
-github.com/night-codes/alliance v1.0.2/go.mod h1:L4HXUJ1L5CnvdoM3h6bUedf3KFOEXyar3C6WsPHxqCE=
+github.com/night-codes/alliance v1.0.3 h1:fQika4a8tq7aHiuerflS7F7hfCfTgZbOkQGsHgFG7PE=
+github.com/night-codes/alliance v1.0.3/go.mod h1:L4HXUJ1L5CnvdoM3h6bUedf3KFOEXyar3C6WsPHxqCE=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/stretchr/testify v1.2.2/go.mod h1:a8OnRcib4nhh0OaRAV+Yts87kKdq0PP7pXfy6kDkUVs=
