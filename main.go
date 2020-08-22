@@ -16,7 +16,7 @@ var (
 		InputDir string `arg:"positional" help:"Input source directory (\"jss/\")."`
 		Output   string `arg:"positional" help:"Output JS file (\"script.js\")."`
 		Watch    string `arg:"-w" help:"Watch directory for changes."`
-		Import   string `arg:"-i" help:"Specify a Scss import path."`
+		Import   string `arg:"-i" help:"Specify a JS import path."`
 	}
 
 	filelist = make(map[string]time.Time)

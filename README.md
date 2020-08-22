@@ -1,9 +1,10 @@
 # JSS
-CommonJS and AMD modules compiler written in Golang. 
+CommonJS and AMD modules compiler written in Golang.
 
-## How To Install   
+## How To Install
 ```bash
 go get -u github.com/night-codes/jss
+go install github.com/night-codes/jss
 ```
 
 ## How to use
@@ -19,7 +20,7 @@ Options:
   --watch WATCH, -w WATCH
                          Watch directory for changes.
   --import IMPORT, -i IMPORT
-                         Specify a Scss import path.
+                         Specify a JS import path.
   --help, -h             display this help and exit
 ```
 
@@ -28,7 +29,7 @@ Options:
 
 MIT License
 
-Copyright (c) 2018 Oleksiy Chechel (alex.mirrr@gmail.com)   
+Copyright (c) 2018 Oleksiy Chechel (alex.mirrr@gmail.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
